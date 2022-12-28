@@ -1,0 +1,119 @@
+.studio{
+    background: #DFE1FF;
+    width: 1920px;
+    height: 1028px;
+    left: 0;
+    top: 0;
+    position: relative;
+}
+.fon{
+    position: absolute;
+    z-index: 1;
+}
+.main{
+    width: 1795.62px;
+    height: 961.59px;
+    left: 70.14px;
+    top: 0;
+    position: absolute;
+    z-index: 2;
+}
+.text{
+    width: 635px;
+    left: 571.86px;
+    top: 65px;
+    position: absolute;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.textH1{
+    width: 439px;
+    height: 49px;
+    /*left: calc(50% - 439px/2 + 0.5px);*/
+    /*top: 1016px;*/
+
+    font-style: normal;
+    font-weight: 900;
+    font-size: 38px;
+    line-height: 49px;
+    /* identical to box height, or 129% */
+
+    /*display: flex;*/
+    /*align-items: center;*/
+
+    color: #05042B;
+
+}
+.textP{
+    width: 635px;
+    height: 90px;
+    /*left: calc(50% - 635px/2 - 0.5px);*/
+    /*top: 1091px;*/
+
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+    /* or 150% */
+
+    color: #05042B;
+
+    margin-top: 26px;
+}
+.textH2{
+    width: 584px;
+    height: 30px;
+
+    font-style: normal;
+    font-weight: 800;
+    font-size: 20px;
+    line-height: 30px;
+    /* identical to box height, or 150% */
+
+    align-items: center;
+    text-align: center;
+
+    color: #05042B;
+
+    margin-top: 20px;
+}
+.btn{
+    position: absolute;
+    left: 837px;
+    top: 300px;
+    z-index: 2;
+}
+.btnImg{
+    position: absolute;
+}
+.btnText{
+    position: absolute;
+    width: 113px;
+    top: 17px;
+    left: 67px;
+    bottom: 17px;
+    right: 66px;
+
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    /*display: flex;*/
+    /*align-items: center;*/
+
+    color: #FFFFFF;
+}
+.phones{
+    position: absolute;
+    z-index: 2;
+    top: 407px;
+    left: 357px;
+}
+.laptop{
+    position: absolute;
+    z-index: 2;
+    top: 347px;
+    left: 715px;
+}

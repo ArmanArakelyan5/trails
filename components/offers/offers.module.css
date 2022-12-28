@@ -1,0 +1,58 @@
+.offers{
+    width: 1920px;
+    height: 869px;
+    background: #EAEBFF;
+    position: relative;
+}
+.back{
+    width: 1778.78px;
+    height: 794.15px;
+    position: absolute;
+    top: 0;
+    left: 70.14px;
+}
+.main{
+    display: flex;
+    position: absolute;
+    top: 78px;
+    left: 369px;
+}
+.left{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-items: center;
+}
+.phone{
+
+}
+.right{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-items: center;
+}
+.list{
+    width: 413px;
+    display: flex;
+    justify-items: center;
+    align-items: center;
+
+}
+.icon{
+    margin: 23px;
+}
+.text{
+
+}
+.h1{
+    font-weight: 900;
+    font-size: 16px;
+    color: #05042B;
+    margin-bottom: 10px;
+}
+.p{
+    font-weight: 400;
+    font-size: 13px;
+    color: #05042B;
+}

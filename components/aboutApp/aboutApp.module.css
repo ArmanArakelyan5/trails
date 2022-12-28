@@ -1,0 +1,62 @@
+.aboutApp{
+    width: 1920px;
+    height: 951px;
+    background: #EDEEFF;
+    position: relative;
+    top: -80px;
+    overflow: hidden;
+}
+.image{
+    position: absolute;
+    top: -5.46px;
+    left: 564px;
+    opacity: 85%;
+}
+.main{
+    display: flex;
+    position: absolute;
+    top: 190px;
+    right: 0;
+    bottom: 0;
+    left: 327px;
+    z-index: 2;
+}
+.mainText{
+    color: #05042B;
+    width: 602px;
+}
+.title{
+    width: 602px;
+    height: 98px;
+    font-weight: 900;
+    font-size: 32px;
+}
+.paragraph{
+    width: 584px;
+    height: 163px;
+    font-weight: 500;
+    font-size: 20px;
+    margin-top: 34px;
+}
+.paragraph2{
+    width: 584px;
+    height: 60px;
+    font-weight: 900;
+    font-size: 23px;
+    margin-top: 55px;
+}
+.downloade{
+    margin-top: 34px;
+}
+.dwnTitle{
+    font-weight: 900;
+    font-size: 22px;
+    color: #000000;
+}
+.icons{
+    margin-top: 10px;
+    display: flex;
+}
+.googleplay{
+    margin-right: 10px;
+}

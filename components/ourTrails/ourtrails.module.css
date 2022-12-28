@@ -1,0 +1,57 @@
+.ourTrails{
+    width: 1920px;
+    height: 997px;
+    background: #EAEBFF;
+    position: relative;
+}
+.h1{
+    font-weight: 900;
+    font-size: 38px;
+    line-height: 49px;
+    position: absolute;
+    top: 70px;
+    left: 876px;
+    color: #05042B;
+}
+.main{
+    width: 100%;
+    height: 715px;
+    position: absolute;
+    top: 170px;
+    overflow: auto;
+}
+.elm{
+    width: 450px;
+    height: 350px;
+    border-radius: 20px;
+    position: relative;
+    margin-right: 3px;
+    margin-left: 3px;
+    margin-bottom: 6px;
+    float: left;
+    overflow: hidden;
+}
+.elmLogo{
+    position: absolute;
+    top: 264.64px;
+    left: 20.11px;
+    z-index: 2;
+}
+.elmInfo{
+    width: 450px;
+    height: 62px;
+    border-radius: 20px;
+    opacity: 90%;
+    background: #F3F4FF;
+    position: absolute;
+    top: 288px;
+    z-index: 1;
+    display: flex;
+    align-items: center;
+    padding-left: 89px;
+}
+.elmP{
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+}

@@ -1,0 +1,95 @@
+.footer{
+    width: 1920px;
+    height: 283px;
+    background: #1A0A60;
+    padding-top: 57px;
+    padding-left: 372px;
+    padding-right: 349px;
+    position: relative;
+}
+.main{
+
+}
+.top{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 45px;
+}
+.logoandnav{
+    display: flex;
+    align-items: end;
+}
+.bottom{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 14px;
+}
+.bottom>div{
+    display: flex;
+}
+.bottom>div>span{
+    color: rgba(255, 255, 255, 0.8);
+    font-size: 25px;
+    margin-right: 21px;
+    margin-left: 21px;
+}
+.p1{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    color: rgba(255, 255, 255, 0.8);
+
+}
+.p2{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 23px;
+    color: rgba(255, 255, 255, 0.8);
+}
+.p3{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 23px;
+    color: rgba(255, 255, 255, 0.8);
+
+}
+.logo{
+    margin-right: 102.84px;
+}
+.nav{
+    display: flex;
+}
+.nav>p{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    color: #FFFFFF;
+    margin-right: 35px;
+}
+.downloade{
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    top: 91px;
+    right: 349px;
+}
+.googleplay{
+    margin-bottom: 9px;
+}
+.powered{
+
+}
+.main>hr{
+    width: 1199px;
+    height: 0;
+    border: 1px solid rgba(255, 255, 255, 0.5);
+    box-shadow: 2px 0px 0px #28D5EA, -2px 0px 2px #5517E5;
+    filter: blur(1px);
+    /*position: absolute;*/
+    /*top: 214px;*/
+    /*left: 371px;*/
+}
